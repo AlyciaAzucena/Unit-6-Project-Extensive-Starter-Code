@@ -1,0 +1,80 @@
+body {
+    background-color: #80b918;
+    margin: 0;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 50px;
+    color: white;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.yes-button {
+    height: 40px;
+}
+
+
+.Part-Two-Yes {
+    font-family: 'Coiny', cursive;
+    background-color: #34a0a4;
+}
+
+
+.Part-Two-No {
+    font-family: 'Coiny', cursive;
+    background-color: #ea9ab2;
+}
+
+.Story-Ending-Yes {
+    font-family: 'Coiny', cursive;
+    background-color: #ebb3a9;
+}
+
+.Story-Ending-No {
+    font-family: 'Coiny', cursive;
+    background-color: #660000;
+}
+
+.cruelprince-img {
+    height: 300px;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+button {
+    margin: 20px;
+    color: brown;
+    border-radius: 25px;
+    border: 3px solid brown;
+    background-color: white;
+    font-size: 25px;
+}
+
+button:hover {
+    color: white;
+    border-radius: 25px;
+    border: 3px solid white;
+    background-color: green;
+}
